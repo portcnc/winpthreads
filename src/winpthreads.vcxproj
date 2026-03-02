@@ -96,6 +96,7 @@
       <AdditionalIncludeDirectories>$(ProjectDir)\..\include</AdditionalIncludeDirectories>
       <CompileAs>CompileAsC</CompileAs>
       <TreatWarningAsError>true</TreatWarningAsError>
+      <RuntimeTypeInfo>false</RuntimeTypeInfo>
     </ClCompile>
     <Link>
       <SubSystem>
